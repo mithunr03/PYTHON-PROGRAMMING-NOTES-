@@ -16,3 +16,4 @@ print (int(c))
 print (float(a))
 print (bool(b))
 
+ 
