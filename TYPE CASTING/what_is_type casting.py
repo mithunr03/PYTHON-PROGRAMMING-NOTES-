@@ -11,7 +11,7 @@ print(type(b))
 print(type(c))
 print(type(c1))
 
-#let's convert a float to integer
+#let's convert the types of the variables 
 print (int(c))
 print (float(a))
 print (bool(b))
